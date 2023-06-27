@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dip
 - 👀 I’m interested in programming and design event driven system.
-- 🌱 I’m currently learning React and spring boot.
-- 💞️ I’m looking to collaborate on python , microservice, data engineering
+- 🌱 Proficient Data and Backend Engineer.
+- 💞️ I’m currently learning React and go.
 - 📫 How to reach me /in/hellodip
 
 <!---
